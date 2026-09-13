@@ -24,7 +24,7 @@ No external dependencies.
 ```bash
 git clone https://github.com/joaohfaria/client-registry.git
 cd client-registry
-python clientes.py
+python gerenciador.py
 ```
 
 Clients are stored in `clientes.json`, created automatically on first save.
